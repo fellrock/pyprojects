@@ -14,4 +14,5 @@ def get_prime(num):
     return factors
 
 
+print(get_prime(153))
 
